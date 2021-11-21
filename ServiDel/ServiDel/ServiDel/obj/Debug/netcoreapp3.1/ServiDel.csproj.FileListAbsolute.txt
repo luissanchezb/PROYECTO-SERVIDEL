@@ -1,0 +1,28 @@
+C:\Users\usuario\source\repos\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.exe
+C:\Users\usuario\source\repos\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.deps.json
+C:\Users\usuario\source\repos\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.runtimeconfig.json
+C:\Users\usuario\source\repos\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.dll
+C:\Users\usuario\source\repos\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.pdb
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.AssemblyInfo.cs
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.dll
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.pdb
+C:\Users\usuario\source\repos\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.genruntimeconfig.cache
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.exe
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.deps.json
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.runtimeconfig.json
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.runtimeconfig.dev.json
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.dll
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\bin\Debug\netcoreapp3.1\ServiDel.pdb
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.csproj.AssemblyReference.cache
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.AssemblyInfoInputs.cache
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.AssemblyInfo.cs
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.csproj.CoreCompileInputs.cache
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.dll
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.pdb
+C:\Users\Xervicompu\OneDrive\Escritorio\ULEAM\TERCER SEMESTRE\Programación Orientada a Obejtos\ServiDel\ServiDel\ServiDel\obj\Debug\netcoreapp3.1\ServiDel.genruntimeconfig.cache
